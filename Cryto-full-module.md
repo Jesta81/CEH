@@ -2,7 +2,7 @@
 
 
 	1. Pretty good privacy
-	2. [x]TLS handshake protocol
+	2. [x] TLS handshake protocol
 	3. TLS record protocol
 	4. GNU privacy guard
 
@@ -11,13 +11,13 @@
 
 	1. MD5
 	2. 3DES
-	3. [x]PGP
+	3. [x] PGP
 	4. SHA1
 
 3. A person approaches a network administrator and wants advice on how to send encrypted e-mail from home. The end user does not want to have to pay for any license fees or manage server services. Which of the following is the most secure encryption protocol that the network administrator should recommend?
 
 
-	1. [x]Pretty good privacy (PGP)
+	1. [x] Pretty good privacy (PGP)
 	2. IP security (IPSEC)
 	3. Hypertext transfer protocol with secure socket layer (HTTPS)
 	
@@ -27,7 +27,7 @@
 4. To send a PGP-encrypted message, which piece of information from the recipient must the sender have before encrypting the message?
 
 
-	1. [x]Recipient’s public key
+	1. [x] Recipient’s public key
 	2. Sender’s public key
 	3. Master encryption key
 	4. Recipient’s private key
@@ -37,7 +37,7 @@
 
 
 	1. Vindicate
-	2. [x]FileVault
+	2. [x] FileVault
 	3. Akamai
 	4. Nexpose
 
@@ -52,7 +52,7 @@
 Identify the correct sequence of steps involved in encrypting messages using S/MIME.
 
 
-		[x]3 -> 1 -> 4 -> 2
+		[x] 3 -> 1 -> 4 -> 2
 		2 -> 4 -> 3 -> 1
 		4 -> 2 -> 1 -> 3
 		3 -> 1 -> 2 -> 4
@@ -72,7 +72,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 8. Which of the following is end-to-end email encryption software configured with OpenPGP for securing emails and attachments in Google Mail?
 
 
-	1. [x]FlowCrypt
+	1. [x] FlowCrypt
 	2. Bitvise
 	3. Super network tunnel
 	4. Hashcat 
@@ -106,7 +106,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 12. Which of the following attacks exploits acoustic emissions from keyboards and computing components produced during computation to acquire useful information?
 
 
-	1. [x]Side-channel attack
+	1. [x] Side-channel attack
 	2. Birthday attack
 	3. Brute-force attack
 	4. Meet-in-the-middle attack
@@ -115,7 +115,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 13. In which of the following attacks does an attacker reduce the number of brute-force permutations required to decode text encrypted by more than one key and use the space-time trade-off?
 
 
-	1. [x]Meet-in-the-middle attack
+	1. [x] Meet-in-the-middle attack
 	2. Hash collision attack
 	3. DUHK attack
 	4. Side-channel attack
@@ -125,7 +125,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 
 	1. Frequency cryptanalysis
 	2. Linear cryptanalysis
-	3. [x]Differential cryptanalysis
+	3. [x] Differential cryptanalysis
 	4. Integral cryptanalysis
 
 
@@ -141,7 +141,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 
 
 	1. Rainbow table attack
-	2. [x]DUHK attack
+	2. [x] DUHK attack
 	3. Hash collision attack
 	4. Side channel attack
 
@@ -149,7 +149,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 17. Out of the following, identify the attack that is used for cracking a cryptographic algorithm using multiple keys for encryption.
 
 
-	1. [x]Meet-in-the-middle attack
+	1. [x] Meet-in-the-middle attack
 	2. Rainbow table attack
 	3. Side channel attack
 	4. DUHK attack
@@ -167,7 +167,7 @@ Identify the correct sequence of steps involved in encrypting all outgoing email
 19. Which of the following practices makes an organization’s data vulnerable to various cryptographic attacks?
 
 
-	1. [x]Never impose a limit on the number of operations per key.
+	1. [x] Never impose a limit on the number of operations per key.
 	2. For certificate signing, the transfer of private keys should not be allowed.
 	3. Use redundant cryptosystems to encrypt data multiple times.
 	4. The output of the hash function should have a large bit length so that it is difficult to decrypt.
