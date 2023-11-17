@@ -106,7 +106,7 @@
 2. Which of the following tools is designed to capture a WPA/WPA2 handshake and act as an ad-hoc AP?
 
 
-	1. [x.] Airbase-ng   **captures WPA/WPA2 handshake act as AP**
+	1. [x] Airbase-ng   **captures WPA/WPA2 handshake act as AP**
 
 	2. Airolib-ng **stores pass lists**
 	3. Airmon-ng     **managed to monitor mode**
@@ -163,7 +163,7 @@
 	1. Netcraft   **OSINT**
 	2. Robber    **DLL Hyjacking**
 	3. L0phtCrack   **password cracking**
-	4. Kismet   **wireless packet capture**
+	4. [x] Kismet   **wireless packet capture**
 
 
 10. Mark is working as a penetration tester in InfoSEC, Inc. One day, he notices that the traffic on the internal wireless router suddenly increases by more than 50%. He knows that the company is using a wireless 802.11 a/b/g/n/ac network. He decided to capture live packets and browse the traffic to investigate the issue to find out the actual cause. Which of the following tools should Mark use to monitor the wireless network?
