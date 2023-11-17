@@ -32,8 +32,8 @@
 4. In LAN-to-LAN Wireless Network, the APs provide wireless connectivity to local computers, and computers on different networks that can be interconnected?
 
 
-	False
-	[x] True
+	1. False
+   	2. [x] True
 
 
 5. Which of the following is used to connect wireless devices to a wireless/wired network?
