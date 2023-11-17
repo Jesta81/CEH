@@ -230,7 +230,7 @@ Some countermeasures against cookie/session poisoning attacks are as follows:
     Avoid using generators for creating session identifiers. 
 
 
-18. Identify the practice that makes web applications susceptible to external password reset attacks.
+19. Identify the practice that makes web applications susceptible to external password reset attacks.
 
 
 	1. Use advanced multi-factor authentication (MFA) techniques
@@ -242,7 +242,7 @@ Some countermeasures against cookie/session poisoning attacks are as follows:
 	4. Perform proper validation of random token and email link combinations before executing the request
 
 
-19. Which of the following practices helps security professionals secure web applications from same-site attacks?
+20. Which of the following practices helps security professionals secure web applications from same-site attacks?
 
 
 	1. Never educate users on CNAME DNS entry verification and its impacts
