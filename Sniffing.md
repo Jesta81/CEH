@@ -136,10 +136,10 @@
 
 5. Which of the following security measures should be followed to defend against DNS spoofing?
 
-1. Do not restrict DNS zone transfers to a limited set of IP addresses
-2. Allow DNS requests being sent to external servers
-3. Avoid using DNS non-existent domain (NXDOMAIN) rate limiting
-4. [x] Restrict the DNS recusing service, either fully or partially, to authorized users
+	1. Do not restrict DNS zone transfers to a limited set of IP addresses
+	2. Allow DNS requests being sent to external servers
+	3. Avoid using DNS non-existent domain (NXDOMAIN) rate limiting
+	4. [x] Restrict the DNS recusing service, either fully or partially, to authorized users
 
 
 6. Which of the following techniques is used by attackers to compromise the security of network switches that connect network segments and force a switch to act as a hub to sniff the traffic easily?
