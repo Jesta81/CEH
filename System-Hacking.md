@@ -217,7 +217,7 @@ Identify the correct sequence of steps involved in performing exploit chaining a
 1. Which of the following is a shim that runs in the user mode and is used by attackers to bypass UAC and perform different attacks including the disabling of Windows Defender and backdoor installation?
 
 
-	1. RedirectEXE
+	1. [x] RedirectEXE
 	2. Schtasks
 	3. WinRM
 	4. launchd
@@ -278,7 +278,7 @@ Identify the correct sequence of steps involved in performing exploit chaining a
 
 
 	1. Launch daemon
-	2. Web shell
+	2. [x] Web shell
 	3. Access token manipulation
 	4. Scheduled task
 
@@ -345,7 +345,7 @@ Identify the correct sequence of steps involved in performing exploit chaining a
 1. Which of the following types of spyware can record and monitor Internet activities, record software usage and timings, record an activity log and store it at one centralized location, and log users’ keystrokes?
 
 
-	1. Desktop spyware
+	1. [x] Desktop spyware
 	2. Audio spyware
 	3. GPS spyware
 	4. Email spyware
@@ -354,10 +354,10 @@ Identify the correct sequence of steps involved in performing exploit chaining a
 2. Which of the following techniques is not a countermeasure to defend against spyware?
 
 
-1. [x] Always use the administrative mode
-2. Adjust the browser security settings to medium or higher for the Internet zone
-3. Avoid using any computer system that is not entirely under the user’s control
-4. Be cautious of pop-up windows or web pages; never click anywhere on these windows`
+	1. [x] Always use the administrative mode
+	2. Adjust the browser security settings to medium or higher for the Internet zone
+	3. Avoid using any computer system that is not entirely under the user’s control
+	4. Be cautious of pop-up windows or web pages; never click anywhere on these windows`
 
 
 3. Which of the following best practices should be adopted to defend against spyware?
@@ -437,7 +437,7 @@ Identify the correct sequence of steps involved in performing exploit chaining a
 
 
 	1. Skip reading the instructions in the end-user license agreement (EULA) before installing software.
-	2. Use configuration management and vulnerability-scanning tools to verify the effective deployment of updates.
+	2. [x] Use configuration management and vulnerability-scanning tools to verify the effective deployment of updates.
 	3. Surf the Internet while logged into an administrator account.
 	4. Disable write protection on the motherboard to prevent BIOS from being infected by a rootkit.
 
