@@ -29,18 +29,16 @@
 
 ## Risk Management Phases ##
 
-**ID**
-**Assess**
-**Treat**
-**Track**
+### 1. ID ###
+### 2. Assess ###
+### 3. Treat ###
+### 4. Track ###
 
 
 ## Threat Modeling Process ##
 
-**Identify security ovjectives**
-**Application Overview**
-**Decompose the Application**
-**Identify Threats**
-**Identify Vulnerabilities**
-
-
+### 1. **Identify security ovjectives** ###
+### 2. **Application Overview** ###
+### 3. **Decompose the Application** ###
+### 4. **Identify Threats** ###
+### 5. **Identify Vulnerabilities** ###
