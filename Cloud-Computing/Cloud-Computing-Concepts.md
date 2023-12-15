@@ -100,7 +100,7 @@
 
 ## Separation of Responsibilities in Cloud. 
 
-![Separation-of-Responsibilities-in-Cloud](Cloud-Computing/Separation-of-Responsibilities-in-Cloud.png) 
+![Separation-of-Responsibilities-in-Cloud](/Cloud-Computing/Separation-of-Responsibilities-in-Cloud.png) 
 
 ### Separation of Responsibilities in Cloud. 
 
