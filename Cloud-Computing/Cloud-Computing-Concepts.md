@@ -135,7 +135,7 @@
 
 > - It is a cloud environment comprised of two or more clouds (private, public, or community) that remain unique entities but are bound together to offer the benefits of multiple deployment models. In this model, the organization makes available and manages some resources in-house and provides other resources externally (e.g., Microsoft Azure, Zymr, Parangat Cloud Computing, Logicalis).  
 
-![Hybrid Cloud](Cloud-Computing/Hybrid-Cloud-Model.png) 
+![Hybrid Cloud](/Cloud-Computing/Hybrid-Cloud-Model.png) 
 
 ### Multi Cloud. 
 
