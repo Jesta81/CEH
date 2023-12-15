@@ -113,3 +113,32 @@
 
 ![Cloud Deployment Models](/Cloud-Computing/Cloud-Deployment-Models.png) 
 
+### Public Cloud. 
+
+> - In this model, the provider makes services such as applications, servers, and data storage available to the public over the Internet. Therefore, he is liable for the creation and constant maintenance of the public cloud and its IT resources. Public cloud services may be free or based on a pay-per-usage model (e.g., Amazon Elastic Compute Cloud (EC2), Google App Engine, Windows Azure Services Platform, IBM Bluemix).  
+
+![Public Cloud](/Cloud-Computing/Public-Cloud-Model.png) 
+
+### Private Cloud. 
+
+> - A private cloud, also known as the internal or corporate cloud, is a cloud infrastructure operated by a single organization and implemented within a corporate firewall. Organizations deploy private cloud infrastructures to retain full control over corporate data (e.g., BMC Software, VMware vRealize Suite, SAP Cloud Platform).  
+
+![Private Cloud](/Cloud-Computing/Private-Cloud-Model.png) 
+
+### Community Cloud. 
+
+> - It is a multi-tenant infrastructure shared among organizations from a specific community with common computing concerns, such as security, regulatory compliance, performance requirements, and jurisdiction. The community cloud can be either on-or off-premises and governed by the participated organizations or by a third-party managed service provider (e.g., Cisco Cloud Solutions, Salesforce Health Cloud).  
+
+![Community Cloud](/Cloud-Computing/Community-Cloud-Model.png) 
+
+### Hybrid Cloud. 
+
+> - It is a cloud environment comprised of two or more clouds (private, public, or community) that remain unique entities but are bound together to offer the benefits of multiple deployment models. In this model, the organization makes available and manages some resources in-house and provides other resources externally (e.g., Microsoft Azure, Zymr, Parangat Cloud Computing, Logicalis).  
+
+![Hybrid Cloud](Cloud-Computing/Hybrid-Cloud-Model.png) 
+
+### Multi Cloud. 
+
+> - It is a dynamic heterogeneous environment that combines workloads across multiple cloud vendors that are managed via one proprietary interface to achieve long-term business goals. The multi cloud uses multiple computing and storage services from different cloud vendors. It distributes cloud assets, software, applications, etc. across various cloud-hosting environments. Multi cloud environments are mostly all-private, all-public or a combination of both. Organizations use multi cloud environments for distributing computing resources, thereby increasing computing power and storage capabilities, and limiting the data loss and downtime risk to a great extent (e.g., Microsoft Azure Arc, Google Cloud Anthos).  
+
+![Multi Cloud](/Cloud-Computing/Multi-Cloud-Model.png) 
