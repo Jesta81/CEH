@@ -43,3 +43,17 @@
 >
 > - Virtualization technology in the cloud enables the rapid scaling of resources in a way that non-virtualized environments cannot achieve.  
 
+
+## Types of Cloud Computing Services. 
+
+![Types of Cloud Computing Services](/Cloud-Computing/Types-of-Cloud-Computing-Services.png)
+
+
+### Infrastructure-as-a-Service (Iass):  
+
+> - This cloud computing service enables subscribers to use on-demand fundamental IT resources, such as computing power, virtualization, data storage, and network. This service provides virtual machines and other abstracted hardware and operating systems (OSs), which may be controlled through a service application programming interface (API). As cloud service providers are responsible for managing the underlying cloud computing infrastructure, subscribers can avoid costs of human capital, hardware, and others (e.g., Amazon EC2, Microsoft OneDrive, Rackspace).  
+
+### Platform-as-a-Service (PaaS):  
+
+> - This type of cloud computing service allows for the development of applications and services. Subscribers need not buy and manage the software and infrastructure underneath it but have authority over deployed applications and perhaps application hosting environment configurations. This offers development tools, configuration management, and deployment platforms on-demand, which can be used by subscribers to develop custom applications (e.g., Google App Engine, Salesforce, Microsoft Azure). Advantages of writing applications in the PaaS environment include dynamic scalability, automated backups, and other platform services, without the need to explicitly code for them.  
+
