@@ -6,5 +6,5 @@
 ## Characteristics of Cloud Computing.  
 
 
-![Chacteristics of Cloud Computing](/CEH/Cloud-Computing/Characteristics-of-Cloud-Computing.png).  
+![Chacteristics of Cloud Computing](/Cloud-Computing/Characteristics-of-Cloud-Computing.png).  
 
