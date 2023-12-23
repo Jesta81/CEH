@@ -127,7 +127,7 @@
 >>
 >> - **four 4-bit working registers** (RC5 uses two 2-bit registers). 
 
-![RC4, RC5, and RC6 Algorithms](Cryptography/Encryption-Algorithms/images/RC4-RC5-RC6.png) 
+![RC4, RC5, and RC6 Algorithms](/Cryptography/Encryption-Algorithms/images/RC4-RC5-RC6.png) 
 
 
 ## Blowfish. 
@@ -221,7 +221,7 @@
 >>
 >> - CAST-128 is used as a default cipher in **GPG and PGP**. 
 
-![CAST-128](Cryptography/Encryption-Algorithms/images/CAST-128.png) 
+![CAST-128](/Cryptography/Encryption-Algorithms/images/CAST-128.png) 
 
 
 ## Government Standard block cipher (GOST) and Camellia. 
@@ -353,7 +353,7 @@
 >>
 >> - SHA-3 uses the **sponge construction**, in which message blocks are **XORed** into the initial bits of the state, which is then invertibly permuted. 
 
-[SHA Hashing](/Cryptography/Encryption-Algorithms/images/SHA.png) 
+![SHA Hashing](/Cryptography/Encryption-Algorithms/images/SHA.png) 
 
 
 ## RIPEMD-160 and HMAC
