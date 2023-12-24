@@ -94,7 +94,7 @@
 
 ### GPG Encryption.
 
-![GNU Privacy Gaurd (GPG) Encryption](/Crpytography/Email-Encryption/images/GPG-Encryption.png)  
+![GNU Privacy Gaurd (GPG) Encryption](/Cryptography/Email-Encryption/images/GPG-Encryption.png)  
 
 > - GPG encrypts messages individually by using asymmetric-key pairs. 
 >
