@@ -14,7 +14,7 @@
 
 ### iOS architecture
 
-![iOS architecture](/Hacking-Mobile-Platforms/hacking-iOS/images/iOS-architecture.png) 
+![iOS architecture](/Hacking-Mobile-Platforms/Hacking-iOS/images/iOS-architecture.png) 
 
 > The iOS architecture comprises five layers: Cocoa application, media, core services, core OS and kernel, and device drivers. The lower-level layers contain fundamental services and technologies, whereas the higher-level layers build upon the lower layers to provide more sophisticated services and technologies. 
 >
@@ -36,7 +36,7 @@
 
 ## Jailbreaking 
 
-![Jailbreaking iOS](/Hacking-Mobile-Platforms/hacking-iOS/images/iOS-jailbreaking.png) 
+![Jailbreaking iOS](/Hacking-Mobile-Platforms/Hacking-iOS/images/iOS-jailbreaking.png) 
 
 > - Jailbreaking is defined as the process of **installing a modified set of kernel patches** that allows users to run third-party applications not signed by the OS vendor. 
 >
@@ -65,7 +65,7 @@
 
 ## Jailbreaking Techniques 
 
-![Jailbreaking Techniques](/Hacking-Mobile-Platforms/hacking-iOS/images/jailbreaking-techniques.png) 
+![Jailbreaking Techniques](/Hacking-Mobile-Platforms/Hacking-iOS/images/jailbreaking-techniques.png) 
 
 ### Untethered Jailbreaking 
 > - An untethered jailbreak has the property that if the user turns the device off and back on, the device will completely start up, and the **kernel will be patched** without the help of a computer; in other words, it will be jailbroken after each reboot. 
@@ -86,9 +86,9 @@
 >
 > - Using Hexxa Plus, the user can install the **latest iOS jailbreak** apps by extracting repos.
 
-![Hexxa Plus](/Hacking-Mobile-Platforms/hacking-iOS/images/hexxa-plus.png) 
+![Hexxa Plus](/Hacking-Mobile-Platforms/Hacking-iOS/images/hexxa-plus.png) 
 
-![Hexxa Plus](/Hacking-Mobile-Platforms/hacking-iOS/images/hexxa-plus-2.png) 
+![Hexxa Plus](/Hacking-Mobile-Platforms/Hacking-iOS/images/hexxa-plus-2.png) 
 
 
 ## iOS Jailbreaking Tools 
@@ -109,7 +109,7 @@
 
 ## iOS Hacking using Spyzie
 
-![Sypzie](/Hacking-Mobile-Platforms/hacking-iOS/images/spyzie.png) 
+![Sypzie](/Hacking-Mobile-Platforms/Hacking-iOS/images/spyzie.png) 
 
 > - [Sypzie](https://spyzie.io) allows attackers to **hack SMSs, call logs, app chats, GPS, etc**. 
 >
@@ -120,7 +120,7 @@
 
 ## Hacking Network using Network Analyzer Pro 
 
-![Net Analyzer Pro](/Hacking-Mobile-Platforms/hacking-iOS/images/network-analyzer-pro.png) 
+![Net Analyzer Pro](/Hacking-Mobile-Platforms/Hacking-iOS/images/network-analyzer-pro.png) 
 
 > - [Network Analyzer Pro](https://apps.apple.com) discovers all **LAN devices' addresses** and names. 
 >
@@ -133,7 +133,7 @@
 >
 > - This vulnerability exploits the **“iTunes Wi-Fi Sync”** feature, where the victim connects their phone to any trusted computer that is already infected by an attacker. 
 
-![iOS Trustjacking](/Hacking-Mobile-Platforms/hacking-iOS/images/iOS-trustjacking.png) 
+![iOS Trustjacking](/Hacking-Mobile-Platforms/Hacking-iOS/images/iOS-trustjacking.png) 
 
 > Once the victim clicks on **“Trust,”** the attacker gets access to the connected iOS device through the infected computer, which continues until the phone resets the connection settings. The data and screen operations of the compromised device can later be monitored from the desktop without the user’s knowledge. The infected system can allow the attacker to read the user’s activity even after the device is out of the communication zone. It can also enable the attacker to backup or restore data to read SMS history, deleted photos, and apps. The attacker can also replace original apps of the device with malicious apps from the previously connected PC. 
 
@@ -148,7 +148,7 @@
 >
 > - Using cycript, attackers can perform various activities such as **method swizzling, authentication bypass, and jailbreak detection bypass**. 
 
-![cycript](/Hacking-Mobile-Platforms/hacking-iOS/images/cycript.png) 
+![cycript](/Hacking-Mobile-Platforms/Hacking-iOS/images/cycript.png) 
 
 ### iOS Method Swizzling 
 
@@ -158,7 +158,7 @@
 >
 > - Attackers use this technique to perform logging, **JavaScript injections, detection bypass, and authentication bypass**. 
 
-[iOS Method Swizzling](/Hacking-Mobile-Platforms/hacking-iOS/images/method-swizzling.png) 
+[iOS Method Swizzling](/Hacking-Mobile-Platforms/Hacking-iOS/images/method-swizzling.png) 
 
 
 ### Extracting Secrets Using Keychain Dumper 
@@ -167,14 +167,14 @@
 >
 > - Attackers use tools such as [Keychain Dumper](https://github.com) to extract keychains from the target iOS device. 
 
-![Keychain Dumper](/Hacking-Mobile-Platforms/hacking-iOS/images/keychain-dumper.png) 
+![Keychain Dumper](/Hacking-Mobile-Platforms/Hacking-iOS/images/keychain-dumper.png) 
 
 
 ### Analyzing an iOS Application Using objection 
 
 > - Attackers use the [objection](https://github.com) tool to perform **method hooking, bypass SSL pinning**, and **bypass jailbreak detection** on the target iOS device. 
 
-![objection](/Hacking-Mobile-Platforms/hacking-iOS/images/objection.png) 
+![objection](/Hacking-Mobile-Platforms/Hacking-iOS/images/objection.png) 
 
 
 ## iOS Malware
@@ -185,7 +185,7 @@
 >
 > - NoReboot can **fake device reboot** and run in the background without any interruption during spy operation. 
 
-![NoReboot](/Hacking-Mobile-Platforms/hacking-iOS/images/NoReboot.png) 
+![NoReboot](/Hacking-Mobile-Platforms/Hacking-iOS/images/NoReboot.png) 
 
 
 ### Peagasus 
@@ -234,7 +234,7 @@
 
 ## iOS Device Security Tools
 
-[Avira Mobile Security](/Hacking-Mobile-Platforms/hacking-iOS/images/avira.png) 
+[Avira Mobile Security](/Hacking-Mobile-Platforms/Hacking-iOS/images/avira.png) 
 
 ### Avira Mobile Security
 
@@ -264,7 +264,7 @@
 3. Tap **Find My [device]** and then turn on **Find My [device]**. 
 4. To view the device even when it is offline, **turn of Find My network**. 
 
-![Find My](/Hacking-Mobile-Platforms/hacking-iOS/images/Find-My.png) 
+![Find My](/Hacking-Mobile-Platforms/Hacking-iOS/images/Find-My.png) 
 
 #### Additional iOS device tracking tools
 
