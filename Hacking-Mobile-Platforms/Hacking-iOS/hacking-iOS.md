@@ -158,7 +158,7 @@
 >
 > - Attackers use this technique to perform logging, **JavaScript injections, detection bypass, and authentication bypass**. 
 
-[iOS Method Swizzling](/Hacking-Mobile-Platforms/Hacking-iOS/images/method-swizzling.png) 
+![iOS Method Swizzling](/Hacking-Mobile-Platforms/Hacking-iOS/images/method-swizzling.png) 
 
 
 ### Extracting Secrets Using Keychain Dumper 
@@ -234,7 +234,7 @@
 
 ## iOS Device Security Tools
 
-[Avira Mobile Security](/Hacking-Mobile-Platforms/Hacking-iOS/images/avira.png) 
+![Avira Mobile Security](/Hacking-Mobile-Platforms/Hacking-iOS/images/avira.png) 
 
 ### Avira Mobile Security
 
