@@ -1,6 +1,6 @@
 # Hacking Mobile Platforms
 
-![Learning Objectives](/Hacking-Mobile/Platforms/images/learning-objectives.png) 
+![Learning Objectives](/Hacking-Mobile-Platforms/images/learning-objectives.png) 
 
 ## Learning Objectives
 
