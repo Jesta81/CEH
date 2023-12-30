@@ -26,7 +26,7 @@
 
 [Source:](https://developer.android.com) 
 
-![Android Architecture](/Hacking-Android/images/android-arch.png) 
+![Android Architecture](/Hacking-Mobile-Platforms/Hacking-Android/images/android-arch.png) 
 
 ### System Apps. 
 >
@@ -131,13 +131,13 @@
 >
 > - This API allows developers to create security-aware applications that are useful in enterprise settings, where IT professionals require strong control over employee devices. 
 
-![Android API policies](/Hacking-Android/images/api-policies.png) 
-![Android API policies](/Hacking-Android/images/api-policies-2.png) 
+![Android API policies](/Hacking-Mobile-Platforms/Hacking-Android/images/api-policies.png) 
+![Android API policies](/Hacking-Mobile-Platforms/Hacking-Android/images/api-policies-2.png) 
 
 
 ## Android Rooting
 
-![Android Rooting](Hacking-Android/images/rooting.png)
+![Android Rooting](/Hacking-Mobile-Platforms/Hacking-Android/images/rooting.png)
 >
 > - Rooting allows Android users to attain privileged control (known as "root access") within Android's subsystem. 
 >
