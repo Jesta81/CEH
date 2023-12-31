@@ -185,8 +185,8 @@
 >> 10. Be cautious while browsing websites and opening links or attachments sent via email. 
 >> 11. Erase all the data, access credentials, and applications related to the organization from all the devices before leaving the organization in any manner (e.g., moving to another company or retirement).
 >> 12. Always rely on authorized dealers and stores during any event of repair or hardware alterations to the mobile device. 
->> 13. Do not upload or backup company data in any kind of personal cloud storage other than the one specified by company. 
-14. Report to the corresponding IT teams and authorities in the event of theft or loss of a mobile device. 
+>> 13. Do not upload or backup company data in any kind of personal cloud storage other than the one specified by company.
+>> 14. Report to the corresponding IT teams and authorities in the event of theft or loss of a mobile device. 
 >> 15. Utilize a secure VPN connection while accessing public Wi-Fi networks. 
 >> 16. Do not synchronize the mobile device with other personal devices such as TV, desktop, and Bluetooth devices. 
 
