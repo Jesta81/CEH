@@ -45,11 +45,11 @@
 
 #### Additional MDM solutions
 
-> [VMware AirWatch](https://www.vmware.com) 
-> [Sicap Device Management Centre](https://www.sicap.com) 
-> [SOTI MobiControl](https://www.soti.net) 
-> [Scalefusion](https://scalefusion.com) 
-> [ManageEngine Mobile Device Manager Plus](https://www.manageengine.com) 
+> 1. [VMware AirWatch](https://www.vmware.com) 
+> 2. [Sicap Device Management Centre](https://www.sicap.com) 
+> 3. [SOTI MobiControl](https://www.soti.net) 
+> 4. [Scalefusion](https://scalefusion.com) 
+> 5. [ManageEngine Mobile Device Manager Plus](https://www.manageengine.com) 
 
 
 ## Bring Your Own Device (BYOD) 
