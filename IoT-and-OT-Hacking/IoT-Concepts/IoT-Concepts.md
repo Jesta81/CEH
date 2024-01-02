@@ -2,7 +2,7 @@
 
 The IoT is an important and emerging topic in the field of technology, economics, and society in general. It is referred to as the web of connected devices, made possible by the intersection between machine-to-machine communications and big data analytics. The IoT is a future-facing development of the Internet and abilities of physical devices that are gradually narrowing the gap between the virtual and physical world. This section deals with some of the important IoT concepts that one should be familiar with to understand the advanced topics covered later in this module. 
 
-![IoT Devices](/IoT-and-OT-Hacking/IoT-Concepts/images/IoT.png) 
+![IoT Devices](/IoT-and-OT-Hacking/IoT-Concepts/IoT.png) 
 
 ## What is the IoT? 
 
@@ -217,4 +217,130 @@ IoT devices consist of both hardware and software components. Hardware component
 >> #### Mihini/M3DA: 
 >> - Mihini/M3DA is a software used for communication between an M2M server and applications running on an embedded gateway. It allows IoT applications to exchange data and commands with an M2M server. 
 
+
+## IoT Communication Models 
+
+![IoT Communication Models](/IoT-and-OT-Hacking/IoT-Concepts/images/IoT-Comm.png) 
+
+IoT technology uses various technical communication models, each with its own characteristics. These models highlight the flexibility with which IoT devices can communicate with each other or with the client. Discussed below are four communication models and the key characteristics associated with each model: 
+
+1. ### Device-to-Device Communication Model 
+
+![Device-to-Device](/IoT-and-OT-Hacking/IoT-Concepts/images/device-to-device.png) 
+
+> - In this type of communication, inter-connected devices interact with each other through the Internet. 
+>
+> - They predominantly use protocols such as ZigBee, Z-Wave or Bluetooth. 
+>
+> - Device-to-device communication is most commonly used in smart home devices such as thermostats, light bulbs, door locks, CCTV cameras, and fridges, which transfer small data packets to each other at a low data rate. 
+>
+> - This model is also popular in communication between wearable devices. For example, an ECG/EKG device attached to the body of a patient will be paired to his/her smartphone and will send him/her notifications during an emergency.
+
+2. ### Device-to Cloud Communication Model 
+
+![Device-to-Cloud](/IoT-and-OT-Hacking/IoT-Concepts/images/device-to-cloud.png) 
+
+> - In this type of communication, devices communicate with the cloud directly, rather than directly communicating with the client to send or receive data or commands. 
+>
+> - It uses communication protocols such as Wi-Fi or Ethernet, and sometimes uses Cellular as well. 
+>
+> - An example of Wi-Fi-based device-to-cloud communication is a CCTV camera that can be accessed on a smartphone from a remote location. In this scenario, the device (here, the CCTV camera) cannot directly communicate with the client; rather, it first sends data to the cloud, and then, if the client inputs the correct credentials, he/she is then allowed to access the cloud, which in turn allows him/her to access the device at his/her home. 
+
+3. ### Device-to-Gateway Communication Model 
+
+![Device-to-Gateway](/IoT-and-OT-Hacking/IoT-Concepts/images/device-to-gateway.png) 
+
+> - In the device-to-gateway communication model, the IoT device communicates with an intermediate device called a gateway, which in turn communicates with the cloud service. 
+>
+> - This gateway device could be a smartphone or a hub that is acting as an intermediate point, which also provides security features and data or protocol translation. 
+>
+>> 1. #### ZigBee
+>> 2. #### Z-Wave
+
+4. ### Back-End Data-Sharing Communication Model
+
+![Back-End Data-Sharing](/IoT-and-OT-Hacking/IoT-Concepts/images/backend-data-sharing.png) 
+
+> - This type of communication model extends the device-to-cloud communication type such that the data from the IoT devices can be accessed by authorized third parties. 
+>
+> - Here, devices upload their data onto the cloud, which is later accessed or analyzed by third parties. 
+>
+> - An example of this model would be an analyzer of the yearly or monthly energy consumption of a company. Later, the analysis can be used to reduce the company’s expenditure on energy by following certain energy-harvesting or saving techniques. 
+
+
+## Challenges of IoT
+
+IoT technology is growing so quickly that it has become ubiquitous. With numerous applications and features but a lack of basic security policies, IoT devices are currently easy prey for hackers. In addition, upgrades to IoT devices have introduced new security flaws that can be easily exploited by hackers. To overcome this significant issue, manufacturing companies should consider security as the top priority, starting with planning and design, and up to deployment, implementation, management, and maintenance.
+
+![Challenges of IoT](/IoT-and-OT-Hacking/IoT-Concepts/images/challenges-of-IoT.png) 
+
+> 1. ### Lack of Security and Privacy: 
+> - Most IoT devices today, such as household devices, industrial devices, healthcare devices, automobiles, etc., are connected to the Internet and contain important and confidential data. 
+>
+> - These devices lack even basic security and privacy policies, and hackers can exploit this to carry out malicious activity. 
+>
+> 2. ### Vulnerable Web Interfaces: 
+> - Many IoT devices come with embedded web server technology that makes them vulnerable to attacks. 
+>
+> 3. ### Legal, Regulatory, and Rights Issue: 
+> - Due to the interconnection of IoT devices, certain security issues are raised with no existing laws that address these issues. 
+>
+> 4. ### Default, Weak, and Hardcoded Credentials: 
+> - One of the most common reasons for cyber-attacks on IoT devices is their authentication systems. 
+>
+> - These devices usually come with default and weak credentials, which can easily be exploited by a hacker to gain unauthorized access to the devices. 
+>
+> 5. ### Clear Text Protocols and Unnecessary Open Ports: 
+> - IoT devices lack encryption techniques during the transmission of data, which at times causes them to use certain protocols that transmit data in clear text in addition to having open ports. 
+>
+> 6. ### Coding Errors (Buffer Overflow): 
+> - Most IoT devices today have embedded web services that are subject to the same vulnerabilities that are commonly exploited on web service platforms. 
+>
+> - As a result, updating such functionality may give rise to issues like buffer overflows, SQL injection, etc. within technology infrastructure. 
+>
+> 7. ### Storage Issues: 
+> - IoT devices generally come with smaller data storage capacity, but the data collected and transmitted by the devices is limitless. 
+>
+> - Therefore, this gives rise to data storage, management, and protection issues. 
+>
+> 8. ### Difficult-to-Update Firmware and OS: 
+> - Upgrading firmware is an essential step toward countering vulnerabilities in a device, but it may impair a device’s functionality. 
+>
+> - For this reason, developers or manufacturers may hesitate or even refuse to provide product support or make adjustments during the development phase of their products. 
+>
+> 9. ### Interoperability Standard Issues: 
+> - One of the biggest obstacles for IoT devices is the interoperability issue, which is key to the viability and long-term growth of the entire IoT ecosystem. 
+>
+> - The issues that arise due to lack of interoperability in IoT devices are the inability of manufacturers to test application programming interfaces (APIs) using common methods and mechanisms, their inability to secure devices using software from third parties, and their inability to manage and monitor devices using a common layer. 
+>
+> 10. ### Physical Theft and Tampering: 
+> - Physical attacks on IoT devices include tampering with the devices to inject malicious code or files to make the devices work the way the attacker intends, or making hardware modifications to the devices. 
+>
+> - Counterfeiting the devices may also be an issue when proper physical protection is not present to shield the devices. 
+>
+> 11. ### Lack of Vendor Support for Fixing Vulnerabilities: 
+> - The firmware of the devices has to be upgraded in order to protect the devices against certain vulnerabilities, but vendors are hesitant, or they usually refuse to get third-party access to their devices. 
+>
+> 12. ### Emerging Economy and Development Issues: 
+> - With widespread opportunities for IoT devices in every field, multiple layers of complexity are added for policymakers. 
+>
+> - The new landscape introduced by these devices adds a new dimension for the policymakers, who have to design new blueprints and policies for IoT devices. 
+>
+> 13. ### Handling of Unstructured Data: 
+> - An increase in the number of connected devices will increase the complexity of handling unstructured data as its volume, velocity, and variety increases. 
+>
+> - It is important for organizations to understand and determine which data is valuable and actionable.
+
+
+## Threat vs Opportunity 
+
+![Threat vs Opportunity](/IoT-and-OT-Hacking/IoT-Concepts/images/threat-v-opportunity.png) 
+
+> 1. ### Security
+> 2. ### Privacy 
+> 3. ### Safety 
+>
+> - If **MICONFIGURED** and **MISAPPREHENDED**, the IoT poses an unprecedented risk to personal data, privacy and safety. 
+>
+> - If **APPREHENDED** and **PROTECTED**, the IoT can boost transmissions, communiations, delivery of services, and standard of living. 
 
