@@ -2,7 +2,7 @@
 
 The IoT is an important and emerging topic in the field of technology, economics, and society in general. It is referred to as the web of connected devices, made possible by the intersection between machine-to-machine communications and big data analytics. The IoT is a future-facing development of the Internet and abilities of physical devices that are gradually narrowing the gap between the virtual and physical world. This section deals with some of the important IoT concepts that one should be familiar with to understand the advanced topics covered later in this module. 
 
-![IoT Devices](/IoT-and-OT-Hacking/IoT-Concepts/IoT.png) 
+![IoT Devices](/IoT-and-OT-Hacking/IoT-Concepts/images/IoT.png) 
 
 ## What is the IoT? 
 
