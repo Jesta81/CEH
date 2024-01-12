@@ -426,7 +426,7 @@ As **OT** is being widely spread and **interconnected with IT**, security resear
 >>
 >
 
-![Flowmon](IoT-and-OT-Hacking/OT-Hacking/OT-Attack-Countermeasures/images/Security-Tools-2.png) 
+![Flowmon](/IoT-and-OT-Hacking/OT-Hacking/OT-Attack-Countermeasures/images/Security-Tools-2.png) 
 
 - Listed below are some additional tools for securing an OT environment. 
 >
